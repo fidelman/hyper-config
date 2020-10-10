@@ -155,10 +155,10 @@ module.exports = {
   plugins: [
     'hyperborder',
     'hypercwd',
-    'hyperterm-dibdabs',
+    'hyper-tabs-enhanced',
     'hyperlinks',
     'hyper-statusline',
-    'hyper-match',
+    'hyperterm-install-devtools',
   ],
 
   // in development, you can create a directory under
